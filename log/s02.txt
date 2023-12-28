@@ -1,0 +1,3 @@
+
+File has already been preprocessed.
+Skipping EEG .bdf preprocessing for Subject 02
